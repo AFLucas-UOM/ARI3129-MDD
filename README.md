@@ -19,7 +19,7 @@ The waste bags in this dataset have been categorized as follows:
   ```
 
 ## Acknowledgments
-This project was developed as part of the ` ARI3129` course at the `University of Malta`.
+This project was developed as part of the `ARI3129` course at the `University of Malta`.
 
 
 ## Contact
