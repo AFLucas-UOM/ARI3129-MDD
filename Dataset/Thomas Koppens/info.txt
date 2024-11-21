@@ -1,4 +1,6 @@
-Total images with ‘Black-Bag’ = X
-Total images with ‘Recycling-Bag’ = X
-Total images with ‘Organic-Bag’ = X
-Total images with ‘Other’ = X
+Total images with ‘Black-Bag’ = 33
+Total images with ‘Recycling-Bag’ = 20
+Total images with ‘Organic-Bag’ = 2
+Total images with ‘Other’ = 0
+
+NB: some have multiple bags in 1 image, some of which belong to different classes
