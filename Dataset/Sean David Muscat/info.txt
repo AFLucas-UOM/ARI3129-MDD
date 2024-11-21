@@ -1,4 +1,4 @@
-Total images with ‘Black-Bag’ = X
-Total images with ‘Recycling-Bag’ = X
-Total images with ‘Organic-Bag’ = X
-Total images with ‘Other’ = X
+Total images with ‘Black-Bag’ = 35
+Total images with ‘Recycling-Bag’ = 37
+Total images with ‘Organic-Bag’ = 37
+Total images with ‘Other’ = 3
