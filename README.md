@@ -1,6 +1,6 @@
-# ARI3129 - Domestic Waste Dataset (DWD)
+# ARI3129 - Maltese Domestic Dataset (MDD)
 
-The Domestic Waste Dataset (DWD) is an open-source collection of annotated images of domestic waste bags captured in Maltese streets. This dataset aims to support the development of machine learning models, particularly custom object detectors, by providing high-quality, labeled data for categorizing various types of waste bags. The dataset has been organized into four primary categories to aid in automated waste classification.
+The Maltese Domestic Dataset (MDD) is an open-source collection of annotated images of domestic waste bags captured in Maltese streets. This dataset aims to support the development of machine learning models, particularly custom object detectors, by providing high-quality, labeled data for categorizing various types of waste bags. The dataset has been organized into four primary categories to aid in automated waste classification.
 
 ## Categories
 The waste bags in this dataset have been categorized as follows:
@@ -15,7 +15,7 @@ The waste bags in this dataset have been categorized as follows:
 
 ## Clone the repository:
   ```bash
-    git clone https://github.com/AFLucas-UOM/ARI3129-DWD.git
+    git clone https://github.com/AFLucas-UOM/ARI3129-MDD.git
   ```
 
 ## Acknowledgments
