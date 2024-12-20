@@ -1,5 +1,9 @@
 # ARI3129 - Maltese Domestic Dataset (MDD)
 
+<a href="https://universe.roboflow.com/advanced-cv/maltese-domestic-dataset">
+    <img src="https://app.roboflow.com/images/download-dataset-badge.svg"></img>
+</a>
+
 The Maltese Domestic Dataset (MDD) is an open-source collection of annotated images of domestic waste bags captured in Maltese streets. This dataset aims to support the development of machine learning models, particularly custom object detectors, by providing high-quality, labeled data for categorizing various types of waste bags. The dataset has been organized into four primary categories to aid in automated waste classification.
 
 ## Categories
