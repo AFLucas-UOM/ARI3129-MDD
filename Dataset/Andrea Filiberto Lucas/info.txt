@@ -1,7 +1,0 @@
-Total images with ‘Black-Bag’ = 36 (+1 unclear)
-Total images with ‘Recycling-Bag’ = 36 (+2 unclear)
-Total images with ‘Organic-Bag’ = 36 (+1 unclear)
-Total images with ‘Other’ = 36
-Total images = 108
-
-NB: some have multiple bags in 1 image, some of which belong to different classes
