@@ -1,0 +1,12 @@
+{
+    "opencv-python": "cv2",
+    "matplotlib": "matplotlib",
+    "tqdm": "tqdm",
+    "ultralytics": "ultralytics",
+    "torch": "torch",
+    "pandas": "pandas",
+    "seaborn": "seaborn",
+    "pyyaml": "yaml",
+    "scipy": "scipy",
+    "tensorboard": "tensorboard"
+}
