@@ -1,7 +1,7 @@
 task: detect
 mode: train
 model: yolov8l.yaml
-data: c:\Users\koppe\Desktop\university\year3\cv2\ARI3129-DWD\Versions\MDD-AFL-Yolov8\data.yaml
+data: /Users/afl/Documents/University/Year 3/Lectures/SEM1/Advanced CV/Assignments/ARI3129-MDD/Versions/MDD-AFL-Yolov8/data.yaml
 epochs: 100
 time: null
 patience: 100
