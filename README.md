@@ -6,7 +6,7 @@
     </a>
 </p>
 
-The Maltese Domestic Dataset (MDD) is an open-source collection of annotated images of domestic waste bags captured in Maltese streets. This dataset aims to support the development of machine learning models, particularly custom object detectors, by providing high-quality, labeled data for categorizing various types of waste bags. The dataset has been organized into four primary categories to aid in automated waste classification.
+The Maltese Domestic Dataset (MDD) is an open-source collection of annotated images of domestic waste bags captured in Maltese streets. This dataset is designed to support the development of machine learning models, particularly custom object detectors, by providing high-quality labeled data for categorizing various types of waste bags. The MDD is instrumental in addressing waste management challenges by enabling automated waste classification systems.
 
 ## Categories
 The waste bags in this dataset have been categorized as follows:
@@ -26,7 +26,6 @@ The waste bags in this dataset have been categorized as follows:
 
 ## Acknowledgments
 This project was developed as part of the `ARI3129` course at the `University of Malta`.
-
 
 ## Contact
 For any inquiries or feedback, please contact [Andrea Filiberto Lucas](mailto:andrea.f.lucas.22@um.edu.mt), [Sean David Muscat](mailto:sean.muscat.22@um.edu.mt) & [Thomas Koppens](mailto:thomas.koppens.22@um.edu.mt)
