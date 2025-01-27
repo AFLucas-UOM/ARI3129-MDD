@@ -1,0 +1,19 @@
+IMPORTANT INFORMATION
+
+The Maltese Domestic Dataset (MDD) is available via the following resources:
+
+GitHub Repository:
+URL: https://github.com/AFLucas-UOM/ARI3129-MDD
+
+The dataset is located in the Dataset folder, which contains the following subfolders:
+
+Subfolders named after the contributors: Andrea Filiberto Lucas, Sean David Muscat, and Online-Sourced Images.
+
+(Additional subfolders under Andrea Filiberto Lucas and Sean David Muscat contain extra images for balanced splits across the four classes.)
+
+Roboflow Augmented Dataset:
+URL: https://universe.roboflow.com/advanced-cv/maltese-domestic-dataset
+
+Augmented photos are not included in the GitHub repository but can be accessed through this Roboflow link.
+
+Note: The augmented dataset includes variations to enhance model training but is separate from the original dataset in the GitHub repository.
