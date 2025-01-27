@@ -1,5 +1,7 @@
 IMPORTANT INFORMATION
 
+Disclaimer: No runs were uploaded to the VLE due to large file sizes. However, all files can be viewed directly on the GitHub repository.
+
 The Maltese Domestic Dataset (MDD) is available via the following resources:
 
 GitHub Repository:
