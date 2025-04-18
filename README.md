@@ -10,7 +10,7 @@ The Maltese Domestic Dataset (MDD) is an open-source collection of annotated ima
 
 ## Object Detection Demo Video - Click Below Thumbnail
 
-[![Watch the demo]()](https://drive.google.com/file/d/1KJUR5vsPBL-KwW7A2bfskgYTyEAvSjqZ/view?usp=sharing)
+[![Watch the demo](githubAssets/DemoThumbnail_1.png)](https://drive.google.com/file/d/1KJUR5vsPBL-KwW7A2bfskgYTyEAvSjqZ/view?usp=sharing)
 
 ## Categories
 The waste bags in this dataset have been categorized as follows:
